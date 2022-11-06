@@ -59,7 +59,7 @@ In this section we provide suggestions and thoughts about how we think the syste
 
 **Frontend**
 
-We provide a Figma (FIGMA LINK) prototype with the submission, so this should be the initial input for frontend development. The frontend should be implmented in one of the currently popular Javascript frameworks - React, Angular or Vue. These frameworks provide good performance on all devices and development functionalities for making intuitive and smooth design.
+We provide a [Figma prototype](https://bit.ly/3fJclcJ) with the submission, so this should be the initial input for frontend development. The frontend should be implmented in one of the currently popular Javascript frameworks - React, Angular or Vue. These frameworks provide good performance on all devices and development functionalities for making intuitive and smooth design.
 
 **Backend**
 
